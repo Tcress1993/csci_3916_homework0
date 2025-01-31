@@ -1,0 +1,22 @@
+Request Headers:
+User-Agent: PostmanRuntime/7.43.0 //The client application making the request
+Accept: */* //The media type that the client is able to accept from the server
+Postman-Token: a9f2793b-d8ba-43c8-8027-711fac5176c9 //request identifer
+Host: www.googleapis.com //The server that is giving the data
+Accept-Encoding: gzip, deflate, br //This is the type of encoding this request is accepting
+Connection: keep-alive //If the connection is active or not
+
+
+Response Headers:
+Content-Type: application/json; charset=UTF-8 //the type of data the server is sending
+Vary: Origin //tells cahes which specific request header they should consider when deciding whether to use a cashed response
+Vary: X-Origin
+Vary: Referer
+Content-Encoding: gzip //list the encoding that have been applied to the response
+Date: Thu, 30 Jan 2025 21:17:27 GMT //The date the response was given
+Server: ESF //The server that is giving the responce
+X-XSS-Protection: 0 //cross site scripting protection
+X-Frame-Options: SAMEORIGIN //instructs a rowser on whether or not to allow a webpage to be rendered inside a frame
+X-Content-Type-Options: nosniff //tells the content type header should be respected and not changed
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000 //informs a lient about alternative services that can be used to access the same resource
+Transfer-Encoding: chunked //how the data will be transferred between a client and server
