@@ -1,3 +1,5 @@
+Todd Cresswell
+1/31/2025
 # Assignment Zero
 ## Purpose
 The purpose of this assignment is to work with Postman become familiar with HTTP, and REST through the testing framework provided by Postman.  Furthermore, to check in your first node program to github.
@@ -65,4 +67,4 @@ var allIssuesAreClosed = issues.every(function(issue) {
 });
 tests["All issues are closed"] = allIssuesAreClosed;  
 ```
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://homework-0.postman.co/workspace/homework-0-Workspace~e86c9772-f48b-410e-918e-3e3f969150e1/environment/41591109-dd3bbfdc-6096-425f-8464-a8077c4e6e52?action=share&creator=41591109&active-environment=41591109-dd3bbfdc-6096-425f-8464-a8077c4e6e52)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/41591109-4a740ff2-e3e1-4dc9-bf2c-7c2cf3bad99c?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D41591109-4a740ff2-e3e1-4dc9-bf2c-7c2cf3bad99c%26entityType%3Dcollection%26workspaceId%3D09e1d031-0834-4a9e-b320-65993e0371e0#?env%5Bbook_search_env%5D=W3sia2V5IjoiYm9va190aXRsZSIsInZhbHVlIjoidHVyaW5nIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6ImRlZmF1bHQiLCJzZXNzaW9uVmFsdWUiOiJ0dXJpbmciLCJjb21wbGV0ZVNlc3Npb25WYWx1ZSI6InR1cmluZyIsInNlc3Npb25JbmRleCI6MH0seyJrZXkiOiJib29rX2lkIiwidmFsdWUiOiIiLCJlbmFibGVkIjp0cnVlLCJ0eXBlIjoiZGVmYXVsdCIsInNlc3Npb25WYWx1ZSI6IiIsImNvbXBsZXRlU2Vzc2lvblZhbHVlIjoiIiwic2Vzc2lvbkluZGV4IjoxfV0=)
